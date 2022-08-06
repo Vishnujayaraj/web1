@@ -1,0 +1,284 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    background-color: #fff;
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    display: flex;
+   
+}
+.logo{
+    margin-left: 40px;
+    margin-top: 1%;
+    width: 100px;
+    height: 40.5px;
+}
+
+.format{
+    padding-left: 10px;
+    padding-top: 12px;
+
+}
+.menu1{
+    padding-left: 71px;
+    padding-top: 12px;
+
+}
+.menu{
+    padding-left: 24px;
+    padding-top: 11px;
+}
+
+.pic1{
+    height: 23px;
+    width: 23px;
+    padding-top: 11px;
+    padding-left: 98px;
+}
+
+.pic2{
+    padding-top: 11px;
+    padding-left: 43px;
+}
+.top-image{
+    width: 100%;
+    height: 800px;
+}
+.middle{
+    width: 100%;
+    height: 350px;
+    background-color: rgb(247, 247, 252);
+    display: flex;
+}
+.mid1{
+    height: 200px;
+    width: 150px;
+    padding-top: 75px;
+    padding-left: 19px;
+}
+.Hai{
+   display: flex;
+}
+
+.container{
+    position: relative;
+}
+
+.text{
+    position: absolute;
+
+}
+.name{
+    padding-left: 44px
+}
+.nam1{
+    padding-left: 54px;
+}
+.name2{
+    padding-left: 69px;
+}
+.name3{
+    padding-left: 69px;
+}
+.name4{
+    padding-left: 56px;
+}
+
+.tv1{
+    width: 321px;
+    height: 400px;
+    display: inline;
+    float:left;
+}
+
+/* .can{
+    width: 400px;
+    height: 400px;
+} */
+.center1{
+    text-align: center;
+    padding-top: 10px;
+}
+.text{
+    padding-top: 60px;
+    text-align: center;
+    width: 30%;
+}
+.tv2{
+    margin-left: 15.1px;
+    width: 740px;
+    height: 400px;
+    
+}
+.center2{
+    text-align: center;
+    padding-top: 10px;
+}
+.text2{
+    position: absolute;
+    top: 1200px;
+    left: 565px;
+    float: left;
+    text-align: center;
+    width: 30%;
+    color: #fff;
+}
+.container1{
+    margin-top: 10px;
+    width:100%;
+    height: 200px;
+    
+}
+.sub1a{
+    width: 357px;
+    height: 400px;
+    float: left;
+}
+
+.let{
+    position: absolute;
+    top: 1636px;
+    left: 59px;
+}
+
+
+.sub2a{
+    margin-top: 0px;
+    width: 321px;
+    height: 400px;
+    float: left;
+    margin-left: 15px;
+}
+
+.let1{
+    position: absolute;
+    top: 1626px;
+    left: 470px;
+}
+.sub3a{
+    margin-top: 0px;
+    width: 368px;
+    height: 400px;
+    float: left;
+    margin-left: 15px;
+}
+
+
+.let2{
+    position: relative;
+    top: -353px;
+    color: #151313;
+    font-size: 17px;
+    /* margin-left: 250px; */
+    margin-left: 773px;
+}
+
+.exchange{
+    position:absolute;
+    width: 100%;
+    margin-top: 15px;
+    height: 460px;
+    display: flex;
+
+}
+.ex1{
+   width: 542px;
+    margin-top: 200px;
+    height: 460px;
+    margin-left: -67px;
+}
+
+
+.center5{
+   
+
+    position: relative;
+    top: -374px;
+    color: #fff;
+    font-size: 30px;
+    margin-left: 124px;
+}
+.program{
+    height: 458px;
+    width: 587px;
+    margin-left: -210px;
+    margin-top: 201px;
+}
+.store1{
+    
+}
+.store2{
+    position: relative;
+    width: 475px;
+    height: 404px;
+    top: 520px;
+    display: flex;
+
+
+}
+.store4{
+    position: relative;
+
+    
+}
+.warpic{
+    position:relative;
+    height: 406px;
+    width: 585px;
+    margin-left: 491px;
+    margin-top: 99px;
+    margin-bottom: 26px;
+}  
+.news{
+
+}
+.newspic1{
+    height: 70px;
+    width: 124px;
+    margin-left: 183px;
+}
+.suscribepic{
+    height: 308px;
+    width: 100%;
+}
+   
+
+.newspic2{
+    position: relative;
+    height: 54px;
+    width: 161px;
+    margin-left: 721px;
+    top: -63px;
+}
+.trustpic{
+    
+    position: relative;
+    top: 50px;
+
+}
+.last{
+    height: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
